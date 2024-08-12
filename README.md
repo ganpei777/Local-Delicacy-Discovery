@@ -1,6 +1,3 @@
-# hello-vue-app
-
-測試測試
+# Local-Delicacy-Discovery
 
 
-https://ganpei777.github.io/hello-vue-app/
