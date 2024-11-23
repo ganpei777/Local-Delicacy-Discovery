@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "vue-cli-service build",
+  "dev": "vue-cli-service serve"
+}
